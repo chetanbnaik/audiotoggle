@@ -1,0 +1,55 @@
+{
+    "_from": "cordova-plugin-audiotoggle",
+    "_id": "cordova-plugin-audiotoggle@1.0.0",
+    "_inBundle": false,
+    "_location": "/cordova-plugin-audiotoggle",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "tag",
+      "registry": true,
+      "raw": "cordova-plugin-audiotoggle",
+      "name": "cordova-plugin-audiotoggle",
+      "escapedName": "cordova-plugin-audiotoggle",
+      "rawSpec": "",
+      "saveSpec": null,
+      "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+      "#USER",
+      "/"
+    ],
+    "_spec": "cordova-plugin-audiotoggle",
+    "author": {
+      "name": "chetanbnaik@gmail.com"
+    },
+    "bugs": {
+      "url": "https://github.com/chetanbnaik/audiotoggle/issues"
+    },
+    "bundleDependencies": false,
+    "cordova": {
+      "id": "cordova-plugin-device",
+      "platforms": [
+        "android",
+        "ios",
+        "browser"
+      ]
+    },
+    "dependencies": {},
+    "deprecated": false,
+    "description": "Cordova audiotoggle Plugin",
+    "homepage": "https://github.com/chetanbnaik/audiotoggle#readme",
+    "keywords": [
+      "cordova",
+      "webrtc",
+      "mobile",
+      "audio",
+      "audio toggle"
+    ],
+    "license": "Apache 2.0",
+    "name": "cordova-plugin-audiotoggle",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chetanbnaik/audiotoggle.git"
+    },
+    "version": "1.0.0"
+  }
